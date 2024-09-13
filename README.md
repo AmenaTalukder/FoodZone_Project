@@ -2,7 +2,9 @@
 ## Demo
 ![Screenshot](https://github.com/user-attachments/assets/a4fd3012-5640-4275-88d4-8e0bfff757a4)
 
-## FoodyZone<br>
+## FoodyZone-Phone (Frontend)<br>
+![Screenshot_1](https://github.com/user-attachments/assets/2fd907ec-268b-47dd-af83-2af736eccbd0)
+
 ## Description<br>
 FoodyZone is a food search web application designed to help users find their favorite dishes.The app allows users to filter food items by category (Breakfast, Lunch, Dinner) and search for specific dishes by name. This project was built using React and styled-components to ensure a modern, responsive design.It dynamically fetches food data from an API and displays the results in an interactive interface.<br>
 
