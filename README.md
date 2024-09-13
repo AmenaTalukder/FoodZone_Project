@@ -2,7 +2,7 @@
 ## Demo
 ![Screenshot](https://github.com/user-attachments/assets/a4fd3012-5640-4275-88d4-8e0bfff757a4)
 
-## FoodyZone-Phone (Frontend)<br>
+## Demo Mobile-Phone (Frontend)<br>
 ![Screenshot_1](https://github.com/user-attachments/assets/2fd907ec-268b-47dd-af83-2af736eccbd0)
 
 ## Description<br>
